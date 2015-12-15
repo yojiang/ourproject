@@ -2,7 +2,7 @@ library(shiny)
 library(ggmap)
 library(ggplot2)
 
-shiniy(fluidPage(
+shinyUI(fluidPage(
   #the name of title
   titlePanel("Immigrant Eligibility"),
   
